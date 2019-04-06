@@ -1,3 +1,4 @@
+//我感觉这道题不压缩也可 
 #include<iostream>
 using namespace std;
 unsigned int c;
